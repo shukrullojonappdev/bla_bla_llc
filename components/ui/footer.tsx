@@ -33,6 +33,8 @@ export default function Footer() {
                 <span className="text-gray-400">
                   175 SW 7TH st STE 1517-1057 Miami Florida 33130
                 </span>
+                <h6 className="text-gray-200 font-medium mb-1 mt-4">Phone</h6>
+                <span className="text-gray-400">+1-754-275-1401</span>
               </div>
             </div>
           </div>
