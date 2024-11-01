@@ -33,16 +33,17 @@ export default function Footer() {
                   Address
                 </h6>
                 <span className="text-gray-400 text-lg">
-                  175 SW 7TH st STE 1517-1057 Miami Florida 33130
+                  26250 Euclid Ave, 9th Floor Suit #916, Euclid, Ohio, 44132,
+                  USA
                 </span>
                 <h6 className="text-gray-200 font-medium mb-1 mt-4 text-xl">
                   For more info, please contact to
                 </h6>
                 <a
-                  href="tel:+17542751401"
+                  href="tel:+13056368257"
                   className="text-gray-400 text-lg hover:text-gray-200 duration-300"
                 >
-                  +1-754-275-1401
+                  +1-305-636-8257
                 </a>
               </div>
             </div>
