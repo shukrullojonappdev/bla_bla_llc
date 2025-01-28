@@ -25,7 +25,7 @@ export default function Footer() {
               </div>
               <Link
                 href="/privacy"
-                className="text-gray-400 text-lg mt- hover:text-gray-200 duration-300"
+                className="font-bold hover:underline text-xl hover:text-gray-200 duration-300 block mt-4"
               >
                 Privacy&Policy
               </Link>
