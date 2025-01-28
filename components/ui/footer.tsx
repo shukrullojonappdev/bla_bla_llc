@@ -23,6 +23,12 @@ export default function Footer() {
                 help you optimize your business processes and ensure the
                 successful delivery of your goods.
               </div>
+              <Link
+                href="/privacy"
+                className="text-gray-400 text-lg mt- hover:text-gray-200 duration-300"
+              >
+                Privacy&Policy
+              </Link>
             </div>
 
             {/* 2nd, 3rd and 4th blocks */}
